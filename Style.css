@@ -1,0 +1,19 @@
+h1{
+    font-size: 60px;
+    color: rgb(6, 209, 245);
+    text-align: center;
+}
+p{
+    text-align: center; 
+    font-size: 60px; 
+    color: rgb(6, 209, 245);
+}
+body{
+   background-color: rgb(0, 0, 0);
+}
+a{
+    font-size: 50px;
+}
+img{
+        border-radius: 50%;
+}
